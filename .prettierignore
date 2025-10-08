@@ -1,0 +1,7 @@
+dist
+.astro
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+package-lock.json
