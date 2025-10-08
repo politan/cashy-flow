@@ -1,6 +1,6 @@
 ---
 description: Code Quality Guidelines
-globs:
+globs: **/*.tsx, **/*.jsx, components/**/*, **/*.html, **/*.css, **/*.ts, **/*.js, **/*.astro
 ---
 
 # Code Quality Guidelines
